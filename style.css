@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+  }
+  
+  button {
+    background-color: red;
+    color: white;
+    margin: 0 auto;
+    display: block;
+  }
+ 
