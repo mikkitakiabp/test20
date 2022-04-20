@@ -8,7 +8,7 @@ button.onclick = function () {
     } else {
       // иначе сделаем фон красным, а текст белым
   button.style.backgroundColor = 'red';
-      button.style.color = 'blue';
+      button.style.color = 'white';
     }
   }
   
